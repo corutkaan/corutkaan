@@ -1,4 +1,0 @@
-1;Dracula;Bram Stoker;22.2
-2;Başlangıç;Dan Brown;127
-3;Ningen Shikkaku;Osamu Dazai;2.6
-4;Vadideki Zambak;Balzac;24
